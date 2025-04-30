@@ -3,7 +3,7 @@
 
 ### Sistema de Gestão de Aquisições em Conformidade com a Legislação Brasileira
 
- CRUD completo para um sistema de gestão de aquisições que atenda às exigências da legislação brasileira. Como você solicitou uma aplicação em Java, vou implementar usando Spring Boot, que é um framework popular para desenvolvimento de aplicações Java.
+ CRUD completo para um sistema de gestão de aquisições que atenda às exigências da legislação brasileira.  uma aplicação em Java, implementado usando Spring Boot, que é um framework popular para desenvolvimento de aplicações Java.
 
 ![image](https://github.com/user-attachments/assets/8c6f1426-ed11-4979-879c-c383319bbef4)
 
